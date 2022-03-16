@@ -8,11 +8,6 @@
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereira7l&show_icons=true&theme=omni)
 </div>
 
-<br/>
-
-
-
-
 
 <br/>
 
