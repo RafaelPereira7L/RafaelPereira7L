@@ -1,6 +1,7 @@
 
-<h1 align="center">Olá, Meu nome é Rafael 🤗</h1>
-<p align="center" style="color:purple; font-weight:bolder">Tenho 18 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica de Minas Gerais 🙏</p>
+<h1 align="center">Hey, my name is Rafael 🤗</h1>
+<p align="center" style="color:purple; font-weight:bolder">
+I have 18 years and currently I'm studying Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais! 🙏</p>
 
 <div align="center">
 
@@ -11,7 +12,7 @@
 
 <br/>
 
-<h1 align="center"> Tecnologias WEB que eu utilizo 👨🏾‍💻 </h1>
+<h1 align="center"> WEB Technologies that I use/know. 👨🏾‍💻 </h1>
 <div style="display: inline_block" align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -35,7 +36,7 @@
 </div>
 <br/>
 
-<h1 align="center"> Sofwares para DESIGN que eu utilizo 👨🏾‍🎨</h1>
+<h1 align="center"> DESIGN Softwares that I use/know. 👨🏾‍🎨</h1>
 <div style="display: inline_block" align="center">
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
@@ -43,7 +44,7 @@
 
 </div><br/><br/>
 
-<h1 align="center"> OS utilizados 🖥️</h1>
+<h1 align="center"> OS 🖥️</h1>
 <div style="display: inline_block" align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
