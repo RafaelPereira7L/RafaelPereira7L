@@ -6,7 +6,7 @@ I have 18 years and currently I'm studying Systems Analysis and Development at t
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.hpereira7@gmail.com) [![Portfolio](https://img.shields.io/website?label=portfolio&style=for-the-badge&up_message=on&url=https%3A%2F%2Ffaeldev.tk)](https://faeldev.tk) <br/>
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereira7l&show_icons=true&theme=omni)
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereira7l&show_icons=true&theme=dracula)
 </div>
 
 
@@ -32,7 +32,7 @@ I have 18 years and currently I'm studying Systems Analysis and Development at t
 </div><br/>
 <div align="center"> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereira7l&theme=omni) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereira7l&theme=dracula) 
 
 </div>
 <br/>
