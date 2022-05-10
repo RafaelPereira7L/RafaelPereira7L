@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey, my name is Rafael 🤗</h1>
 <p align="center" style="color:purple; font-weight:bolder">
-I have 18 years and currently I'm studying Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais! 🙏</p>
+I have 18 years old and currently I'm studying Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais! 🙏</p>
 
 <div align="center">
 
