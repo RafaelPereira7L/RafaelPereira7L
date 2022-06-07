@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey, my name is Rafael 🤗</h1>
 <p align="center" style="color:purple; font-weight:bolder">
-I have 18 years old and currently I'm studying Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais! 🙏</p>
+I have 19 years old and currently I'm studying Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais! 🙏</p>
 
 <div align="center">
 
@@ -19,6 +19,7 @@ I have 18 years old and currently I'm studying Systems Analysis and Development 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
