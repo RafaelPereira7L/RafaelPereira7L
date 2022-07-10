@@ -26,6 +26,7 @@ I am 19 years old and currently I'm studying Systems Analysis and Development at
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
     <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PNPM-%23000000.svg?style=for-the-badge&logo=pnpm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
