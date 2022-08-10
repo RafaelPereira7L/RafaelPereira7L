@@ -34,7 +34,7 @@ I am 19 years old and currently I'm studying Systems Analysis and Development at
 </div><br/>
 <div align="center"> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereira7l&theme=omni) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereira7l&layout=compact&langs_count=8&theme=omni) 
 
 </div>
 <br/>
