@@ -16,9 +16,6 @@
 
 </div>
 
-
-<br/>
-
 <h1 align="center"> My techs 👨🏾‍💻 </h1>
 <div style="display: inline_block" align="center">
     <section>
@@ -45,7 +42,7 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     </section>
 
-</div><br/>
+</div>
 
 <h1 align="center"> Currently learning 👨‍🎓 </h1>
 <div style="display: inline_block" align="center">
@@ -54,9 +51,7 @@
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-
-
-</div><br/>
+</div>
 
 <h1 align="center"> Another Techs ⚙️</h1>
 <div style="display: inline_block" align="center">
@@ -70,18 +65,14 @@
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     </section>
 
-</div><br/>
-
-
-<br/>
+</div>
 
 <h1 align="center"> Design Softwares 👨🏾‍🎨</h1>
 <div style="display: inline_block" align="center">
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-
-</div><br/><br/>
+</div>
 
 <h1 align="center"> OS 🖥️</h1>
 <div style="display: inline_block" align="center">
@@ -89,10 +80,7 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-    
-</div><br/>
-
-
+</div>
 
 <div align="center">
   
