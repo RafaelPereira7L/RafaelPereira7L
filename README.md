@@ -3,7 +3,7 @@
 <p align="center">
     <p>🧑🏽‍💼 I am 19 years old.</p> 
     <p>🏫 I am currently studying Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais!</p>
-    <p>⌨️ Fullstack Developer at ____</p>
+    <p>⌨️ Fullstack Developer</p>
 </p>
 <hr>
 <div align="center">
