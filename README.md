@@ -14,7 +14,7 @@ I'm learning at the moment **NestJS and Apache Kafka**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/)](https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/)
 [![Gmail Badge](https://img.shields.io/badge/-rafael.hpereira7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.hpereira7@gmail.com)](mailto:rafael.hpereira7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-blue)](https://raffp.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-blue)](https://raffp.dev/)
 
 ## 🚀💻 Technologies & Tools
 
