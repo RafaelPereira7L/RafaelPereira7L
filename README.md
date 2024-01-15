@@ -9,7 +9,7 @@
 
 I currently work at [33Robotics](https://33robotics.com/home.html)
 
-I'm learning at the moment **NestJS and Apache Kafka**
+I'm learning at the moment **.NET, Clean Architecture & Microsservices**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/)](https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/)
