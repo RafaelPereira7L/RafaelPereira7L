@@ -7,8 +7,6 @@
 <p>🏫 I am currently studying Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais!</p>
 
 
-I currently work at [33Robotics](https://33robotics.com/home.html)
-
 I'm learning at the moment **.NET, Clean Architecture & Microsservices**
 
 
