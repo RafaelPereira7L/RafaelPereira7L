@@ -4,7 +4,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Rafael</h1>
 <p>👨🏾‍💻 FullStack Developer, PHP, TypeScript and VueJS fan.</p>
 <p>🧑🏽‍💼 I am 21 years old.</p> 
-<p>🏫 I am currently studying Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais!</p>
+<p>🏫 I am graduated in Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais!</p>
 
 
 I'm learning at the moment **Laravel, Clean Architecture & Microsservices**
