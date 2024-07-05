@@ -2,12 +2,12 @@
 
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Rafael</h1>
-<p>👨🏾‍💻 FullStack Developer, TypeScript and VueJS fan.</p>
-<p>🧑🏽‍💼 I am 20 years old.</p> 
+<p>👨🏾‍💻 FullStack Developer, PHP, TypeScript and VueJS fan.</p>
+<p>🧑🏽‍💼 I am 21 years old.</p> 
 <p>🏫 I am currently studying Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais!</p>
 
 
-I'm learning at the moment **.NET, Clean Architecture & Microsservices**
+I'm learning at the moment **Laravel, Clean Architecture & Microsservices**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/)](https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/)
@@ -21,6 +21,8 @@ I'm learning at the moment **.NET, Clean Architecture & Microsservices**
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white)
 ![Nestjs](https://img.shields.io/badge/Nest.js-%23E0234E.svg?&logo=nestjs&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Vue.js-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D)
+![PHP](https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?&logo=laravel&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?&logo=quasar&logoColor=black)
 ![Tailwindcss](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)
