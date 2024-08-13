@@ -23,6 +23,7 @@ I'm learning at the moment **Laravel, Clean Architecture & Microsservices**
 ![VueJS](https://img.shields.io/badge/Vue.js-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?&logo=laravel&logoColor=white)
+![Dotnet](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?&logo=quasar&logoColor=black)
 ![Tailwindcss](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)
