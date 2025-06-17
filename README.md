@@ -3,11 +3,10 @@
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Rafael</h1>
 <p>👨🏾‍💻 FullStack Developer, PHP, TypeScript and VueJS fan.</p>
-<p>🧑🏽‍💼 I am 21 years old.</p> 
+<p>🧑🏽‍💼 I am 22 years old.</p> 
 <p>🏫 I am graduated in Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais!</p>
 
 
-I'm learning at the moment **Laravel, Clean Architecture & Microsservices**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/)](https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/)
