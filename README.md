@@ -3,14 +3,14 @@
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Rafael</h1>
 <p>👨🏾‍💻 FullStack Developer, PHP, TypeScript and VueJS fan.</p>
-<p>🧑🏽‍💼 I am 22 years old.</p> 
+<p>🧑🏽‍💼 I am 23 years old.</p> 
 <p>🏫 I am graduated in Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais!</p>
 
 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/)](https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/)
-[![Gmail Badge](https://img.shields.io/badge/-rafael.hpereira7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.hpereira7@gmail.com)](mailto:rafael.hpereira7@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contato@raffp.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@raffp.dev)](mailto:contato@raffp.dev)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-blue)](https://raffp.dev/)
 
 ## 🚀💻 Technologies & Tools
