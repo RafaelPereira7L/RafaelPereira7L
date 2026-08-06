@@ -2,7 +2,7 @@
 
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Rafael</h1>
-<p>👨🏾‍💻 FullStack Developer, PHP, TypeScript and VueJS fan.</p>
+<p>👨🏾‍💻 FullStack Developer.</p>
 <p>🧑🏽‍💼 I am 23 years old.</p> 
 <p>🏫 I am graduated in Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais!</p>
 
@@ -41,8 +41,3 @@
 ![Git](https://img.shields.io/badge/Git-E34F26?&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?&logo=gitlab&logoColor=white)
-
-## ⚡ GitHub Stats
-
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereira7l&show_icons=true&theme=omni)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereira7l&layout=compact&langs_count=8&theme=omni) 
