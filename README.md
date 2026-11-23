@@ -1,4 +1,4 @@
-![Profile views](https://shieldcn.dev/views/user/rafaelpereira7l.svg?variant=branded&mode=dark)
+![Profile views](https://shieldcn.dev/views/user/rafaelpereira7l.svg?variant=secondary&mode=dark)
 
 # Hi 👋, I’m Rafael
 
