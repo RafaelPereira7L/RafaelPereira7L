@@ -1,43 +1,12 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=rafaelpereira7l" alt="rafaelpereira7l" /></p>
+![Profile views](https://shieldcn.dev/views/user/rafaelpereira7l.svg?variant=branded&mode=dark)
 
+# Hi 👋, I’m Rafael
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Rafael</h1>
-<p>👨🏾‍💻 FullStack Developer.</p>
-<p>🧑🏽‍💼 I am 23 years old.</p> 
-<p>🏫 I am graduated in Systems Analysis and Development at the Pontifical Catholic University of Minas Gerais!</p>
+👨🏾‍💻 Full-stack developer passionate about building useful digital products.  
+🏫 Graduated in Systems Analysis and Development at PUC Minas.
 
+[![LinkedIn](https://shieldcn.dev/badge/LinkedIn.svg?variant=secondary&mode=dark&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/) [![Email](https://shieldcn.dev/badge/Email.svg?variant=secondary&mode=dark&logo=gmail&logoColor=%23EA4335)](mailto:contato@raffp.dev) [![Portfolio](https://shieldcn.dev/badge/Portfolio.svg?variant=secondary&mode=dark&logo=googlechrome&logoColor=%234285F4)](https://raffp.dev/)
 
+## 🚀 Technologies & Tools
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/)](https://www.linkedin.com/in/rafael-henrique-pereira-37b155232/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@raffp.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@raffp.dev)](mailto:contato@raffp.dev)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-blue)](https://raffp.dev/)
-
-## 🚀💻 Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white)
-![Nestjs](https://img.shields.io/badge/Nest.js-%23E0234E.svg?&logo=nestjs&logoColor=white)
-![VueJS](https://img.shields.io/badge/Vue.js-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D)
-![PHP](https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?&logo=laravel&logoColor=white)
-![Dotnet](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-16B7FB?&logo=quasar&logoColor=black)
-![Tailwindcss](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?&logo=oracle&logoColor=white)
-![SQLSERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?&logo=microsoft%20sql%20server&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?&logo=gitlab&logoColor=white)
+![JavaScript](https://shieldcn.dev/badge/JavaScript.svg?variant=secondary&mode=dark&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://shieldcn.dev/badge/TypeScript.svg?variant=secondary&mode=dark&logo=typescript&logoColor=%233178C6) ![Node.js](https://shieldcn.dev/badge/Node.js.svg?variant=secondary&mode=dark&logo=nodedotjs&logoColor=%235FA04E) ![NestJS](https://shieldcn.dev/badge/NestJS.svg?variant=secondary&mode=dark&logo=nestjs&logoColor=%23E0234E) ![Vue.js](https://shieldcn.dev/badge/Vue.js.svg?variant=secondary&mode=dark&logo=vuedotjs&logoColor=%234FC08D) ![React](https://shieldcn.dev/badge/React.svg?variant=secondary&mode=dark&logo=react&logoColor=%2361DAFB) ![PHP](https://shieldcn.dev/badge/PHP.svg?variant=secondary&mode=dark&logo=php&logoColor=%23A5AFE0) ![Laravel](https://shieldcn.dev/badge/Laravel.svg?variant=secondary&mode=dark&logo=laravel&logoColor=%23FF2D20) ![.NET](https://shieldcn.dev/badge/.NET.svg?variant=secondary&mode=dark&logo=dotnet&logoColor=%23A888FF) ![Quasar](https://shieldcn.dev/badge/Quasar.svg?variant=secondary&mode=dark&logo=quasar&logoColor=%2338A9FF) ![Tailwind CSS](https://shieldcn.dev/badge/Tailwind%20CSS.svg?variant=secondary&mode=dark&logo=tailwindcss&logoColor=%2338BDF8) ![HTML5](https://shieldcn.dev/badge/HTML5.svg?variant=secondary&mode=dark&logo=html5&logoColor=%23F06529) ![CSS3](https://shieldcn.dev/badge/CSS3.svg?variant=secondary&mode=dark&logo=css&logoColor=%2369A9FF) ![Bootstrap](https://shieldcn.dev/badge/Bootstrap.svg?variant=secondary&mode=dark&logo=bootstrap&logoColor=%23B695FF) ![MongoDB](https://shieldcn.dev/badge/MongoDB.svg?variant=secondary&mode=dark&logo=mongodb&logoColor=%2347A248) ![GraphQL](https://shieldcn.dev/badge/GraphQL.svg?variant=secondary&mode=dark&logo=graphql&logoColor=%23E10098) ![Apollo GraphQL](https://shieldcn.dev/badge/Apollo%20GraphQL.svg?variant=secondary&mode=dark&logo=apollographql&logoColor=%23AE9FFF) ![PostgreSQL](https://shieldcn.dev/badge/PostgreSQL.svg?variant=secondary&mode=dark&logo=postgresql&logoColor=%236EA8E5) ![MySQL](https://shieldcn.dev/badge/MySQL.svg?variant=secondary&mode=dark&logo=mysql&logoColor=%2378B9D4) ![Oracle](https://shieldcn.dev/badge/Oracle.svg?variant=secondary&mode=dark&logo=oracle&logoColor=%23FF4545) ![SQL Server](https://shieldcn.dev/badge/SQL%20Server.svg?variant=secondary&mode=dark&logo=microsoftsqlserver&logoColor=%23E85454) ![Docker](https://shieldcn.dev/badge/Docker.svg?variant=secondary&mode=dark&logo=docker&logoColor=%232496ED) ![AWS](https://shieldcn.dev/badge/AWS.svg?variant=secondary&mode=dark&logo=amazonwebservices&logoColor=%23FF9900) ![Git](https://shieldcn.dev/badge/Git.svg?variant=secondary&mode=dark&logo=git&logoColor=%23F05032) ![GitHub](https://shieldcn.dev/badge/GitHub.svg?variant=secondary&mode=dark&logo=github&logoColor=%23FFFFFF) ![GitLab](https://shieldcn.dev/badge/GitLab.svg?variant=secondary&mode=dark&logo=gitlab&logoColor=%23FC6D26) ![Claude Code](https://shieldcn.dev/badge/Claude%20Code.svg?variant=secondary&mode=dark&logo=claude&logoColor=%23E99B7E) ![Codex](https://shieldcn.dev/badge/Codex.svg?variant=secondary&mode=dark&logo=openai&logoColor=%2374AA9C) ![OpenCode](https://shieldcn.dev/badge/OpenCode.svg?variant=secondary&mode=dark)
